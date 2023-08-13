@@ -41,6 +41,7 @@ dependencies:
   meta: ^1.8.0
   flutter_tflite: ^1.0.1
   turn_page_transition: ^0.3.0
+  flip_card: ^0.7.0
 
 flutter_icons:
  image_path: "assets/icon.png"
