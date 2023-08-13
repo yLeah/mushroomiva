@@ -76,6 +76,24 @@ flutter:
     - assets/icon.png
     - assets/labels.txt
     - assets/model_unquant.tflite
+    - assets/cook-chanterelle.jpg
+    - assets/cook-hen.jpg
+    - assets/cook-kingtrumpet.jpg
+    - assets/cook-lionmane.jpg
+    - assets/cook-morel.jpg
+    - assets/cook-oyster.jpg
+    - assets/cook-pennybun.jpg
+    - assets/cook-portobello.jpg
+    - assets/cook-shiitake.jpg
+    - assets/e-chanterelle.jpg
+    - assets/e-hen.jpg
+    - assets/e-kingtrumpet.png
+    - assets/e-lionmane.jpg
+    - assets/e-morel.jpg
+    - assets/e-oyster.jpg
+    - assets/e-pennybun.jpg
+    - assets/e-portobello.jpg
+    - assets/e-shiitake.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
