@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
 
 void main() {
   runApp(const MyApp());
@@ -10,11 +11,13 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Mushroomiva',
       theme: ThemeData(
         primarySwatch: Colors.brown,
+        fontFamily: GoogleFonts.spectral().fontFamily,
       ),
       home: const MyHomePage(title: 'Mushroomiva'),
+      debugShowCheckedModeBanner: false,
     );
   }
 }
@@ -42,6 +45,7 @@ class _MyHomePageState extends State<MyHomePage> {
     return Scaffold(
       appBar: AppBar(
         title: Text(widget.title),
+        elevation: 0,
       ),
       body: Center(
         child: Column(
