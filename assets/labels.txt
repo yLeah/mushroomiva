@@ -1,0 +1,9 @@
+0 Chanterelle
+1 King Trumpet Mushroom
+2 True Morels
+3 Lion's Mane
+4 Penny Bun
+5 Hen-Of-The-Wood
+6 Pleurotus Ostreatus
+7 Shiitake
+8 Agaricus Bisporus
